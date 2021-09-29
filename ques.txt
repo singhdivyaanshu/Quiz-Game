@@ -1,0 +1,15 @@
+Who won the recent US presetial elections?
+Donald Trump
+Kanye West
+Joe Biden
+Barack Obama
+When was COVID-19 introduced to the world?
+November 2019
+December 2019
+January 2020
+February 2020
+Which header file is required to use file handling functions in a program?
+iostream.h
+conio.h
+process.h
+fstream.h
